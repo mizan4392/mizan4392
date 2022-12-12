@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mizan MD Mizanur Rahaman</h1>
+<h1 align="center">Hi 👋, I'm  MD Mizanur Rahaman (Mizan)</h1>
 <h3 align="center">As a self-motivated, responsible and quick learner, seeking for such a professional environment where have a dynamic and challenging task through which I can enhance my skills to prove the best of my ability in achieving the objective of the career. Try to lean new programming languages & Love to explore new tools & technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizan4392&label=Profile%20views&color=0e75b6&style=flat" alt="mizan4392" /> </p>
